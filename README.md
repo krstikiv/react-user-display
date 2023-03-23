@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# react-user-display
+Simple REACT app to display user info from JSONplaceholder API with image.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
